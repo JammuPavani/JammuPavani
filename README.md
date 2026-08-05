@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Paavani Jammu 👋
 
-<!--
-**JammuPavani/JammuPavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Software Engineer
 
-Here are some ideas to get you started:
+Building scalable enterprise software with **.NET, Java, React, AWS, and Azure**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Portfolio
+
+**https://paavanij.dev**
+
+---
+
+## 👩‍💻 About Me
+
+I'm passionate about building software that's reliable, intuitive, and designed for real-world business problems.
+
+My experience spans enterprise applications across healthcare, financial services, and cloud-native platforms. I enjoy designing clean architectures, improving system performance, and creating products that users actually enjoy using.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,python,ts,js,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### Personal Portfolio
+
+A modern software engineering portfolio built using **Next.js**, **TypeScript**, and **Tailwind CSS**.
+
+🔗 **https://paavanij.dev**
+
+---
+
+## 📫 Connect
+
+🌐 Portfolio: https://paavanij.dev
+
+💼 LinkedIn: https://linkedin.com/in/jammu-sai-p
+
+📧 Email: paavaniwork2799@gmail.com
