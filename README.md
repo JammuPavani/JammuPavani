@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer
 
-Building scalable enterprise software with **. React, AWS, and Azure**.
+Building scalable enterprise software with ** React, AWS, and Azure**.
 
 ---
 
@@ -16,7 +16,7 @@ Building scalable enterprise software with **. React, AWS, and Azure**.
 
 I'm passionate about building software that's reliable, intuitive, and designed for real-world business problems.
 
-My experience spans enterprise applications across healthcare, financial services, and cloud-native platforms. I enjoy designing clean architectures, improving system performance, and creating products that users actually enjoy using.
+My experience spans enterprise applications across healthcare, enterprise, and cloud-native platforms. I like designing clean architectures, improving system performance, and creating products that users actually enjoy using.
 
 ---
 
@@ -54,15 +54,6 @@ My experience spans enterprise applications across healthcare, financial service
 
 ---
 
-## 🚀 Featured Project
-
-### Personal Portfolio
-
-A modern software engineering portfolio built using **Next.js**, **TypeScript**, and **Tailwind CSS**.
-
-🔗 **https://paavanij.dev**
-
----
 
 ## 📫 Connect
 
