@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer
 
-Building scalable enterprise software with ** React, AWS, and Azure**.
+Building scalable enterprise software with  React, AWS, and Azure.
 
 ---
 
