@@ -51,7 +51,13 @@ My experience spans enterprise applications across healthcare, enterprise, and c
 </p>
 
 ---
+## 📈 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=JammuPavani&show_icons=true&theme=transparent&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=JammuPavani&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JammuPavani&layout=compact&theme=transparent&hide_border=true)
 
 ## 📫 Connect
 
